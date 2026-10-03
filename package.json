@@ -1,0 +1,15 @@
+{
+  "name": "pokemon-search",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Vladyslav Mahar <maharvladyslav@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
